@@ -7,7 +7,8 @@ video demo : https://www.youtube.com/watch?v=Fh2hMb9yacQ
 1. clone repo
 2. run the terminal and go to the code folder
 3. execute ``` npm install ```
-5. run code ``` node app.js ```
+5. create a database using mongoDB
+6. run code ``` node app.js ```
 
 #Screenshots:
 ![2](https://user-images.githubusercontent.com/67188835/222141190-b6b69c15-a3c7-4a1a-ab40-0bfab2be3049.PNG)
