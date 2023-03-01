@@ -6,7 +6,7 @@ video demo : https://www.youtube.com/watch?v=Fh2hMb9yacQ
 # instructions:
 1. clone repo
 2. run the terminal and go to the code folder
-3. execute ``` npm init -y ```
+3. execute ``` npm install ```
 5. run code ``` node app.js ```
 
 #Screenshots:
