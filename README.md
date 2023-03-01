@@ -1,5 +1,5 @@
 # User-Authentication-System
-Authenticated Users with Cookies, Sessions and added Google OAuth 2.0 login.
+Implemented session-based authentication and added Google OAuth 2.0 login using Passport.js, Node, Express
 
 video demo : https://www.youtube.com/watch?v=Fh2hMb9yacQ
 
