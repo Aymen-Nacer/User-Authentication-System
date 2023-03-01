@@ -10,7 +10,7 @@ video demo : https://www.youtube.com/watch?v=Fh2hMb9yacQ
 5. create a database using mongoDB
 6. run code ``` node app.js ```
 
-#Screenshots:
+# Screenshots:
 ![2](https://user-images.githubusercontent.com/67188835/222141190-b6b69c15-a3c7-4a1a-ab40-0bfab2be3049.PNG)
 
 ![3](https://user-images.githubusercontent.com/67188835/222141209-0e37df02-b47b-495e-a2f6-13e36d9a0d2c.PNG)
